@@ -1,0 +1,27 @@
+﻿Study Modal Analysis:1 started: 09/10/2017, 01:44:50 PM
+Number of configurations: 1
+Default mesh: 34581 elements, 60938 nodes
+Computed 8 frequency modes
+Solution time 6.2s
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 09/10/2017, 01:45:11 PM
+Total time 0:00:21
+
+Study Modal Analysis:1 started: 09/10/2017, 01:47:16 PM
+Number of configurations: 1
+Default mesh: 34581 elements, 60938 nodes
+Computed 8 frequency modes
+Solution time 6s
+Reached the total number of h refinements 
+Study Modal Analysis:1 finished: 09/10/2017, 01:47:22 PM
+Total time 0:00:06
+
+Study Modal Analysis:1 started: 09/10/2017, 01:48:13 PM
+Number of configurations: 1
+Default mesh: 34581 elements, 60938 nodes
+Computed 8 frequency modes
+Solution time 6.1s
+Reached the total number of h refinements 
+Study Modal Analysis:1 finished: 09/10/2017, 01:48:20 PM
+Total time 0:00:07
+
